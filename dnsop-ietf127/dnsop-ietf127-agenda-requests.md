@@ -16,3 +16,8 @@
 
 ## Regular Requests
 
+*   Draft name: draft-zhang-dnssec-wildcard-validation
+    - Datatracker URL: https://datatracker.ietf.org/doc/draft-zhang-dnssec-wildcard-validation/
+    - Requester Email: qzhang@paloaltonetworks.com
+    - Time Requested (including Q&A): 15 minutes
+    - Chairs Action:
